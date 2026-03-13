@@ -2,17 +2,10 @@
 
 ## 👋 Hi there, I'm Isaías
 
-<img src="./img/iax.png" alt="Ruby avatar" width="40%" align="right"/>
 I'm a Ruby on Rails developer focused on backend systems, passionate about open source, clean architecture, and software performance.
 Currently working at Apex Systems and constantly learning new technologies to build better products.
 
-<div id="toc"> <!-- both work, toc or user-content-toc -->
-  <ul style="list-style: none;">
-    <summary>
-      <h2>🚀 Tech Stack</h2>
-    </summary>
-  </ul>
-</div>
+## 🚀 Tech Stack
 
 <!-- Logos -->
 <p align="left">
@@ -48,9 +41,9 @@ Currently working at Apex Systems and constantly learning new technologies to bu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iax7&layout=compact&theme=tokyonight"/>
 </div>
 
-## 🏆 GitHub Trophy
+## 🔥 GitHub Streak
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iax7&theme=tokyonight&no-frame=true&column=7)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iax7&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📫 Connect with me
 
